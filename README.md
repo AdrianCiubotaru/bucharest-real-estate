@@ -8,5 +8,5 @@ The main idea of this project is to put into practice all the machine learning a
 
 
 ## Endpoint
-[Netlify app](https://quizzical-brattain-4ffddb.netlify.app/)
-[Repository for front-end](https://github.com/AdrianCiubotaru/real-estate-front-end)
+- [Netlify app](https://quizzical-brattain-4ffddb.netlify.app/)
+- [Repository for front-end](https://github.com/AdrianCiubotaru/real-estate-front-end)
